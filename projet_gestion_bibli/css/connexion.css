@@ -1,0 +1,44 @@
+/*
+
+connexion a son espace
+*/
+.connexion{
+    float: CENTER;
+	
+	width: 360px;
+	height:240px;
+    margin-left: 135PX;
+    border-radius: 100px;
+    margin-top: 30px;
+
+}
+.sph1{
+    margin-left: 100px;
+    margin-top: 30px;
+    color: aliceblue;
+}
+.sph1:hover{
+    size: 76px;
+    color: blue;
+}
+.separe{ 
+    float: left;
+    background-color: rgb(216, 45, 45);
+    width: 100px;
+    height: 300px;
+}
+.inscris{
+    float: left;
+	background-color: rgb(116, 235, 122);
+	width: 400px;
+	
+}
+.corps{
+    float: left;
+    
+    width: 624px;
+    height: 400px;
+    margin-left: 330px;
+    margin-top: 110px;
+    background-image: url(../images/livre.jpg);
+}

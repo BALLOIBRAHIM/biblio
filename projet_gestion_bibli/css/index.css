@@ -1,0 +1,100 @@
+
+body{
+    background-color:rgb(166, 167, 164);
+}
+.inde{
+	width: 1200px;
+	height: 60px;
+	background-color: rgb(2, 2, 2);
+    float: left;
+    margin-left: 20px;
+
+   
+}
+.baniere{
+    clear: both;
+    float: left;
+    width: 1200px;
+    height: 50px;
+    margin-top: 50px;
+    background-color: rgb(95, 102, 107);
+
+}
+
+ .btn-connecter{
+	
+     width: 160px;
+     height: 40px;
+     float: right;
+     margin-right: -30px;
+     margin-top: -69px;
+     padding-top: 30px;
+     padding-left: 20px;
+	 background-color: rgb(7, 7, 7);
+ }
+ input{
+     width: 130px;
+     height: 40px;
+ }
+ .imag_center{
+     background-color:black;
+     width: 1200px;
+     height: 300px;
+     margin-left: 20px;
+     
+ }
+ /* genre le style des panneau genres */
+ .ind_aside_g{
+    float: left;
+    margin-left: 40px;
+    margin-top: 30px;
+    width: 250px;
+    height: 150px;
+    color: white;
+    font-size: x-large;
+    background-color: rgb(243, 227, 227);
+    border-radius: 10PX;
+ }
+
+  /* fin genre le style des panneau genres */
+ .imag_top{
+margin-left:330px;
+ }
+ .ind_aside {
+     float: left;
+     margin-left: 50px;
+     margin-top: 70px;
+     width: 330px;
+     height: 330px;
+     color: white;
+     
+     
+ }
+ 
+ .img_aside{
+    width: 170px;
+    height: 200px;
+    margin-left: 20px;
+    margin-top: 30px;
+    
+ }
+ 
+ 
+     
+ 
+ .ind_aside7{
+     width: 1200px;
+     height: 350px;
+ }
+ footer{
+    clear: both;
+    float: right;
+     width: 1200px;
+     color: white;
+   background-color: black;
+     height: 200px;
+     margin-right: -5px;
+    
+     
+
+ }

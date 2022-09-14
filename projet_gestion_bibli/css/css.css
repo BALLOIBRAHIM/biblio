@@ -1,0 +1,89 @@
+ 
+.entet{
+	width: 100%;
+	height: 150px;
+	background-color:red;
+	color:green;
+	font-size: large;
+	line-height: 150px;
+	text-align:center ;
+	font-family: cursive;
+
+}
+
+/*
+bouton se connecter
+index generale
+*/
+
+
+
+/* le corps de la partie gestion de groupe    */
+.corps_groupe{
+	clear: both;
+	float:right;
+	margin-right: 196px;
+	
+	width: 850px;
+	height: 1000px;
+	
+
+}
+
+.ajout_groupe{
+	width: 470px;
+	height: 260px;
+	
+	margin-top: 20px;
+	margin-left: 170px;
+	margin-bottom: 40px;
+	padding-bottom: 50px;
+	
+}
+
+
+.gestion_groupe{
+	width: 800px;
+	height: 500px;
+	
+	margin-top: 20px;
+	margin-left: 30px;
+	margin-bottom: 40px;
+	padding-top: 18px;
+	border-radius: 60px;
+}
+.btn{
+width: 100px;
+height: 20px;
+text-align: center;
+padding-bottom: 40px;
+}
+.btn:hover{
+	background-color: rgb(142, 145, 151);
+}
+.btn_gpr {
+ width: 100px;
+ height: 25px;
+ margin-left: 60px;
+}
+.ipt{
+	width: 250px;
+	height:30px ;
+}
+.btn_supprimer{
+	background-color: red;
+	color: white;
+}
+.btn_modifier{
+	background-color: green;
+	color: white;
+}
+/*  fin du corps de la partie gestion de groupe    */
+
+.aside_insc1{
+	clear: both;
+	width:200px;
+	height: 200px;
+	
+}
+
